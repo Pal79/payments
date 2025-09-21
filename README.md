@@ -30,8 +30,25 @@ git clone git@github.com:Pal79/payments.git
 cd payments
 ```
 3. Install dependencies:
+- 1.
+```bash
+python3 -m venv .venv
+```
+- 2.
+```bash
+source .venv/bin/activate
+```
+- 3.
 ```bash
 pip install -r requirements.txt
+```
+4. Run program:
+```bash
+python3 main.py
+```
+5. .venv Exit:
+```bash
+deactivate
 ```
 > :memo: Note: This application has been tested only on Linux. Other operating systems may require adjustments.
 ## Usage
