@@ -30,15 +30,15 @@ git clone git@github.com:Pal79/payments.git
 cd payments
 ```
 3. Install dependencies:
-- 1.
+- create virtual environment:
 ```bash
 python3 -m venv .venv
 ```
-- 2.
+- activate venv:
 ```bash
 source .venv/bin/activate
 ```
-- 3.
+- install imports:
 ```bash
 pip install -r requirements.txt
 ```
@@ -46,7 +46,7 @@ pip install -r requirements.txt
 ```bash
 python3 main.py
 ```
-5. .venv Exit:
+5. Exit th virtual environment:
 ```bash
 deactivate
 ```
