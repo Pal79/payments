@@ -56,7 +56,7 @@ Run the program:
 ```bash
 python3 payments.py
 ```
-Follow the on-screen instructions to manage your addresses.
+Follow the on-screen instructions.
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
