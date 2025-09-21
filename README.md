@@ -8,7 +8,7 @@ The program runs entirely in the terminal and does not have a GUI.
 ## Technologies
 - Language: Python 3.11
 - Libraries: Colorama, PrettyTable
-- Database: SQLite3
+- Data storage: csv
 
 ---
 
