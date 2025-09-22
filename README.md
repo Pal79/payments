@@ -1,6 +1,6 @@
 # payments
 **payments** is a lightweight, biller management tool written in **Python**.  
-It has been I developed over the past month to support my current work needs.  
+It has been developed over the past month to support my current work needs.  
 The program runs entirely in the terminal and does not have a GUI.
 
 ---
@@ -15,7 +15,7 @@ The program runs entirely in the terminal and does not have a GUI.
 ## Features
 - Calculates the amount of banknotes
 - Asks for the quantity of invoices
-- Calculates total revenue and difference
+- Calculates total revenue and differences
 - Terminal-based interface, no GUI
 
 ---
@@ -42,7 +42,7 @@ source .venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-4. Run program:
+4. Run program with:
 ```bash
 python3 main.py
 ```
